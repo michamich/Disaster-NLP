@@ -1,2 +1,10 @@
 # gitignore
+
+# Generated Folders
 data/
+out/
+
+# Caches
+.ipynb_checkpoints/
+.vscode/
+__pycache__/

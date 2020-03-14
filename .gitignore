@@ -1,7 +1,7 @@
 # gitignore
 
 # Generated Folders
-data/
+data/input/
 out/
 
 # Caches
